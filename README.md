@@ -42,3 +42,6 @@ Power BI
 - **FinalAirFlyInsights.ipynb** - Jupyter Notebook with complete analysis 
 - **Airline_Performance_Analysis_PPT.pdf** - Final presentation  
 - **images/**- Dashboard photo which is used in README.md
+
+## ⚠️ Disclaimer
+This project was created for educational and portfolio purposes. Dataset ownership belongs to its original source.
