@@ -34,10 +34,10 @@ Found that Banking Relationship ID 3(Private Bank) serves the highest number of 
 #### Workflow: The raw banking dataset was imported into SQL Server for centralized storage. Python was connected to SQL Server using pyodbc to retrieve the data for preprocessing and exploratory data analysis. The cleaned data was then used to develop an interactive Power BI dashboard.
 
 ## 🛠️ Tools & Technologies
-SQL Server
-Python (Pandas, NumPy, Matplotlib, Seaborn, pyodbc)
-Jupyter Notebook
-Power BI
+- SQL Server
+- Python (Pandas, NumPy, Matplotlib, Seaborn, pyodbc)
+- Jupyter Notebook
+- Power BI
 
 ## 📂 Project Files 
 - **Banking.csv** - Dataset
