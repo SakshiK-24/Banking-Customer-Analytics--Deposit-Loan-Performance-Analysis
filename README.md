@@ -11,8 +11,10 @@ Exported the cleaned data for reporting.
 Built an interactive Power BI dashboard to visualize customer, deposit, and loan insights.
 
 ## 📊 Dashboard
-![Banking_Analysis Dashboard](images/Dashboard.png)
-📌 The Power BI dashboard provides insights into:
+![Banking_Analysis Dashboard](images/Dashboard1.png)
+![Banking_Analysis Dashboard](images/Dashboardimg2.png)
+![Banking_Analysis Dashboard](images/Dashboard3.png)
+#### 📌 The Power BI dashboard provides insights into:
 - Loan Analysis 
 - Deposit Analysis
 
@@ -38,9 +40,9 @@ Jupyter Notebook
 Power BI
 
 ## 📂 Project Files 
-- **AIRFLY_FEATURE_DICT.docx** - Sample dataset and data dictionary
-- **FinalAirFlyInsights.ipynb** - Jupyter Notebook with complete analysis 
-- **Airline_Performance_Analysis_PPT.pdf** - Final presentation  
+- **Banking.csv** - Dataset
+- **Banking_Analysis.ipynb** - Jupyter Notebook with complete analysis 
+- **Banking_Analysis_Dashboard.pbix** - Power BI Dashboard  
 - **images/**- Dashboard photo which is used in README.md
 
 ## ⚠️ Disclaimer
